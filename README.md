@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @thug-shaker
+# Hi there, I'm Jim Colerick 👋 
+
+- ➡️ I’m a Full-stack developer graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>
+- 🌱 I’m currently working with PHP, REACT & MySQL
+- 😄 Pronouns: SHE/HER
+- ⚡ Fun fact: Love Adventure trips!
+- ❤️ I love to travel <span style="font-size:25px;">✈️</span>
+
 - Supreme leader of TruthRE https://truthre.org/discord
 
 # Projects
